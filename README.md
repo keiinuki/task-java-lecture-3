@@ -3,21 +3,31 @@
 ## 第三回課題
 
 ### Mapの作成とKey指定でのValueの出力
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L10-L18
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L14-L21
 
 ### for文を使ってKeyとValueの繰り返し処理
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L20-L22
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L23-L25
 
 ### MapのKeyをListに移行して配列の出力とstreamでの繰り返し処理
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L24-L28
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L27-L31
 
 ### MapのValueをListに移行して配列の出力とstreamでの繰り返し処理
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L30-L34
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L33-L37
 
 ### MapのKeyValueをListの要素を指定して出力
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L36
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L39
 
 ### 引数の文字列の桁数に指定があった時を想定した例外
 
 IllegalArgumentExceptionでの例外処理
-https://github.com/keiinuki/task-java-lecture-3/blob/1f2b5ff669a4a3e359090de355d823c2449232c6/src/task/Main.java#L39-L48
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L41-L50
+
+### Listでのstreamを使った処理
+
+filter、map、soated
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L56-L64
+
+### Mapでのstreamを使った処理
+
+map、soated、filter
+https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L66-L96
