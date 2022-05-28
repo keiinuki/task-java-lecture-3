@@ -8,10 +8,10 @@ https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454
 ### for文を使ってKeyとValueの繰り返し処理
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L23-L25
 
-### MapのKeyをListに移行して配列の出力とstreamでの繰り返し処理
+### MapのKeyをListに移行して配列の出力とStreamでの繰り返し処理
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L27-L31
 
-### MapのValueをListに移行して配列の出力とstreamでの繰り返し処理
+### MapのValueをListに移行して配列の出力とStreamでの繰り返し処理
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L33-L37
 
 ### MapのKeyValueをListの要素を指定して出力
@@ -22,12 +22,12 @@ https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454
 IllegalArgumentExceptionでの例外処理
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L41-L50
 
-### Listでのstreamを使った処理
+### ListでのStreamを使った処理
 
 filter、map、soated
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L56-L64
 
-### Mapでのstreamを使った処理
+### MapでのStreamを使った処理
 
 map、soated、filter
 https://github.com/keiinuki/task-java-lecture-3/blob/28028555763da9afe8214107454b43d6eac51785/src/task/Main.java#L66-L96
