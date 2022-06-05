@@ -7,6 +7,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
+import java.util.Optional;
+import java.util.stream.IntStream;
 
 public class Main {
 
@@ -94,6 +96,16 @@ public class Main {
 
 		monthMap.entrySet().stream().filter(e -> e.getValue().length() == 3)
 				.forEach(e -> System.out.println("三文字なのは、" + e.getValue() + "です。"));
+
+		long count = IntStream.rangeClosed(24, 198).count();
+		System.out.println(count);
+
+		long count2 = IntStream.rangeClosed(1, 10).filter(i -> i / 5 > 0).count();
+		System.out.println(count2);
+
+		List<Integer> intList = Arrays.asList(5, 10, 15, 20, 25);
+		Optional<Integer> result = intList.stream().reduce((a, b) -> a + b);
+		result.ifPresent(System.out::print);
 
 	}
 }
